@@ -1,4 +1,5 @@
 #import "NSMutableDictionary+GMSPlace.h"
+#import <GoogleMapsBase/GoogleMapsBase.h> //in NSMutableDictionary+GMSPlace.h
 
 @implementation NSMutableDictionary (GMSPlace)
 
